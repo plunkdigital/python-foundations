@@ -1,0 +1,7 @@
+print("Enter the width for the rectangle")
+width = input('>')
+print("0" * int(width))
+print("0" * int(width))
+print("0" * int(width))
+print("0" * int(width))
+print("0" * int(width))
